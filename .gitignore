@@ -1,0 +1,5 @@
+.conda/
+llama3_model/
+llama3_tokenizer/
+__pycache__/
+*.py[cod]
